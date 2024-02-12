@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🤝 Experienced software developer who enjoys working in high-functioning teams. 
+
 📚 Committed to efficiently solving challenges and continuously expanding knowledge. 
+
 🧪 Seeking opportunities in a position involving software writing and unit testing.
 
 <!--
